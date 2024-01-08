@@ -9,3 +9,10 @@ Ricordiamoci di inizializzare la variabile di contatore prima dell'inizio del ci
 Ricordiamoci di incrementare il contatore, o comunque di inserire una condizione di uscita, all'interno ciclo while
 Se abbiamo difficoltà con lo stampare in pagina, proviamo prima a stampare col ciclo for e solo dopo convertiamo il for in while
 Buon lavoro a tutte e a tutti!!
+
+
+
+## SCALETTA 
+1. Prendo l'elemento dal DOM
+2. Creo una lista della spesa
+3. Stampo in pagina la lista con il template literal
