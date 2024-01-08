@@ -15,3 +15,17 @@ console.log(listItems);
 
 element.innerHTML = listItems;
 */
+
+let listItems = '<ul>';
+
+let item = 0;
+
+while (item < shoppingList.length) {
+    listItems += `<li>${shoppingList[item]}</li>`;
+
+    item++;
+}
+
+console.log(listItems);
+
+element.innerHTML = listItems;
